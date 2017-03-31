@@ -42,3 +42,6 @@
 º
 º
 º
+# FECHA POR AÑO YEAR(dato) = año
+
+# Like= TRABaja cON PARTE DE Y % funcionando como *;
