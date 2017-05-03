@@ -45,3 +45,11 @@
 # FECHA POR AÑO YEAR(dato) = año
 
 # Like= TRABaja cON PARTE DE Y % funcionando como *;
+
+
+
+
+# -------------------------------------------------
+
+# Informe 1, comentarios profe
+ - 
