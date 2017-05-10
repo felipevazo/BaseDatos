@@ -53,3 +53,20 @@
 
 # Informe 1, comentarios profe
  - 
+ 
+ 
+# Teoría de la Normalización
+# Muchas reglas
+# Proceso de Simplificacion de datos
+- CODIGOCOMPILADO YOUTUBE
+- NO MAMES WEY
+- 1º FN
+  - Identificar grupos de repetición!
+  - separar tablas en repite y no repite, que se relacione por una clave foranea (matricula en ejemplo)
+- 2ª FN
+  - Dependencias Funcionales!
+  - si son cosas independientes, se puede separar en tablas relacionadas con claves foraneas
+- 3ª FN
+  - Datos redundantes se van a otra tabla (carrera en diferentes registros)
+  - Dependencias transitivas!
+  
